@@ -1,1 +1,1 @@
-echo "hello! Everyone, welcome Automation Testing"
+"hello! Everyone, welcome Automation Testing"
